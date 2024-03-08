@@ -11,54 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D in Reinforcement Learning, [Fudan University](https://www.fudan.edu.cn/), (2023-2026) **
+
+  Supervisor : [Ke Wei](https://makwei.github.io/)
+
+* **M.S. in Statistics, [Fudan University](https://www.fudan.edu.cn/), (2021 - 2023)**
+
+* **B.M. in [Shanghai University of Finance and Economic](https://www.sufe.edu.cn/), (2017 - 2021)**
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Game AI Intern in NETEASE GAMES AI LAB, 2023.02 - 2023.07**. 
+  - Research on the sample efficiency of on-policy algorithms (such as PPO). 
+  - Research on the Imitation Learning with GAN series algorithms. 
+* **Alignment Intern in Skywork AI, 2023.12 - present.**
+  - Training language models with RLHF algorithms such as SFT, DPO, PPO. 
+  - Research on aligning LLM to follow complex instructions. 
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 Talks
 ======
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

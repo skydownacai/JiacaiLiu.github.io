@@ -21,7 +21,7 @@ repository               : "skydownacai/jiacailiu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my.jpg"
   name             : "Jiacai Liu"
   pronouns         : # example: "she/her"  
   bio              : ""
