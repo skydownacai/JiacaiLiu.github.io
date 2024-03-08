@@ -11,13 +11,16 @@ redirect_from:
 
 Education
 ======
-* **Ph.D in Reinforcement Learning, [Fudan University](https://www.fudan.edu.cn/), (2023-2026) **
 
-  Supervisor : [Ke Wei](https://makwei.github.io/)
+* **Ph.D in Reinforcement Learning, [Fudan University](https://www.fudan.edu.cn/), (2023-2026)**
+
+  *Supervisor : [Ke Wei](https://makwei.github.io/)*
 
 * **M.S. in Statistics, [Fudan University](https://www.fudan.edu.cn/), (2021 - 2023)**
 
 * **B.M. in [Shanghai University of Finance and Economic](https://www.sufe.edu.cn/), (2017 - 2021)**
+
+  *I rank 1st in GaoKao in Guangyuan City, Sichuan Province*
 
 Work experience
 ======
@@ -42,4 +45,3 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-
