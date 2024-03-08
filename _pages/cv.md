@@ -45,11 +45,12 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
 Awards
 ======
 
-- **2023.06                 IJCAI 2023 AI Olympics Competition                                                                                  1stPrize**
-- **2021.06                Chinese Collegiate Computing Competition**                                                                    **1st Prize**
-- **2020.06                Chinese Collegiate Computing Competition**                                                                    **3rd Prize**
-- **2016.03**                **China National High School Mathematics League, Sichuan Province**                       **2nd Prize**
+- **2023.06, IJCAI 2023 AI Olympics Competition, Champion.**
+- **2021.06, Chinese Collegiate Computing Competition, 1st Prize.**
+- **2020.06, Chinese Collegiate Computing Competition, 3rd Prize.**
+- **2016.03, China National High School Mathematics League, Sichuan Province, 2nd Prize.**
 

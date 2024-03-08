@@ -8,5 +8,4 @@ date: 2023-11-30
 location: "Rm1801,Guanghua East Tower"
 ---
 
-![images\talks\2023_11_30_PPG_Applied_math_Seminar.jpg]()
-
+![www.jiacailiu.cn\images\talks\2023_11_30_PPG_Applied_math_Seminar.jpg]()
