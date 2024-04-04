@@ -28,9 +28,6 @@ Work experience
 * **Game AI Intern in NETEASE GAMES AI LAB, 2023.02 - 2023.07**. 
   - Research on the sample efficiency of on-policy algorithms (such as PPO). 
   - Research on the Imitation Learning with GAN series algorithms. 
-* **Alignment Intern in Skywork AI, 2023.12 - present.**
-  - Training language models with RLHF algorithms such as SFT, DPO, PPO. 
-  - Research on aligning LLM to follow complex instructions. 
 
 Publications
 ======
