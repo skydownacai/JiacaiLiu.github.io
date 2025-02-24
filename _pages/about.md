@@ -31,7 +31,7 @@ Education
 Research Interests
 ======
 
-My research  primarily focuses on the Reinforcement Learning, including: 1. Theoretical analysis and algorithm design in RL.  2. The application of RL in large scale real-world problems. I'm also interested in the combination of RL algorithms with large language models. **For those who are interested in working with me, feel free to drop me an email.**
+My research  primarily focuses on the Reinforcement Learning (RL), including: 1. Theoretical analysis and algorithm design in RL.  2. The application of RL in large scale real-world problems. I'm also interested in the combination of RL algorithms with large language models. **For those who are interested in working with me, feel free to drop me an email.**
 
 
 
@@ -42,9 +42,9 @@ News
 
 - **[2025-01]** Two papers submitted to ICML 2025 !
 
-- **[2025-01]** Our paper "***$\phi$-Update: A Class of Policy Update Methods with Policy Convergence Guarante***" is accepted to ICLR 2025 !
+- **[2025-01]** Our paper "***$\phi$-Update: A Class of Policy Update Methods with Policy Convergence Guarante***" got accepted to ICLR 2025 !
 
-- **[2025-01]** Our paper "***On the Linear Convergence of Policy Gradient under Hadamard Parametrization***" is accepted to Information and Inference: A Journal of the IMA.
+- **[2025-01]** Our paper "***On the Linear Convergence of Policy Gradient under Hadamard Parametrization***" got accepted to Information and Inference: A Journal of the IMA.
 
 - **[2024-11]** We have released our [**Skywork o1 Open**](https://huggingface.co/collections/Skywork/skywork-o1-open-67453df58e12f6c3934738d0) collection on Hugging Face! The collection includes a model with o1-like CoT and two process reward models.
 
@@ -61,7 +61,7 @@ Papers
 
 - Chris Yuhao Liu and  Liang Zeng and **Jiacai Liu** and  Rui Yan and  Jujie He and  Chaojie Wang and  Shuicheng Yan and Yang Liu and  Yahui Zhou, Skywork-Reward: Bag of Tricks for Reward Modeling in LLMs, arXiv:2410.18451.
 
-- Wenye Li \*, **Jiacai Liu \*** and Ke Wei. $\phi$-Update: A Class of Policy Update Methods with Policy Convergence Guarante. In The Thirteen International Conference on Learning Representations, ICLR 2025.'
+- Wenye Li \*, **Jiacai Liu \*** and Ke Wei. $\phi$-Update: A Class of Policy Update Methods with Policy Convergence Guarante. In The Thirteen International Conference on Learning Representations, ICLR 2025.
 
 - **Jiacai Liu**, Wenye Li, Ke Wei. Elementary Analysis of Policy Gradient Methods.  arxiv.2404.03372
 
