@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* **Ph.D in Reinforcement Learning, [Fudan University](https://www.fudan.edu.cn/), (2023-2026)**
+* **Ph.D in Reinforcement Learning, [Fudan University](https://www.fudan.edu.cn/), (2023-2027)**
 
   *Supervisor : [Ke Wei](https://makwei.github.io/)*
 
@@ -28,6 +28,8 @@ Work experience
 * **Game AI Intern in NETEASE GAMES AI LAB, 2023.02 - 2023.07**. 
   - Research on the sample efficiency of on-policy algorithms (such as PPO). 
   - Research on the Imitation Learning with GAN series algorithms. 
+* **Alignment Intern in Skywork AI LAB**. 
+  - Research on the post-training. 
 
 Publications
 ======
