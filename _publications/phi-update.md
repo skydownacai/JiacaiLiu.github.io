@@ -1,10 +1,10 @@
 ---
-title: "$\phi$-Update: A Class of Policy Update Methods with Policy Convergence Guarante"
+title: "$phi$-Update: A Class of Policy Update Methods with Policy Convergence Guarante"
 collection: publications
 permalink: /publication/phi-update
 excerpt: ''
-date: 2024-09-01
-venue: 'ICLR 2025'
+date: 2024-09-04
+venue: 'ICLR'
 paperurl: 'https://openreview.net/pdf?id=fh7GYa7cjO'
 citation: 'Wenye Li, Jiacai Liu and Ke Wei. $\phi$-Update: A Class of Policy Update Methods with Policy Convergence Guarante. In The Thirteen International Conference on
 Learning Representations, ICLR 2025, Singapore.'
