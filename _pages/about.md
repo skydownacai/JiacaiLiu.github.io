@@ -35,7 +35,7 @@ My research  primarily focuses on the Reinforcement Learning, including: 1. Theo
 
 
 
-Recent News 🔥
+News
 ======
 
 - **[2025-02]** I gave a remote research talk to [Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/) and his research group on the global convergence of policy gradient methods. ([slides click here](https://drive.google.com/file/d/1ZM8YQGPM4Gx3s4_M_AjYUEVppuo0m25_/view)).
@@ -52,7 +52,7 @@ Recent News 🔥
 
   
 
-Papers 📄
+Papers
 ======
 
 - **Jiacai Liu**, Wenye Li, Ke Wei. On the Convergence of Policy Mirror Descent with Temporal Difference Evaluation. (coming soon ...)
@@ -61,7 +61,7 @@ Papers 📄
 
 - Chris Yuhao Liu and  Liang Zeng and **Jiacai Liu** and  Rui Yan and  Jujie He and  Chaojie Wang and  Shuicheng Yan and Yang Liu and  Yahui Zhou, Skywork-Reward: Bag of Tricks for Reward Modeling in LLMs, arXiv:2410.18451.
 
-- Wenye Li *, **Jiacai Liu *** and Ke Wei. $\phi$-Update: A Class of Policy Update Methods with Policy Convergence Guarante. In The Thirteen International Conference on Learning Representations, ICLR 2025.'
+- Wenye Li \*, **Jiacai Liu \*** and Ke Wei. $\phi$-Update: A Class of Policy Update Methods with Policy Convergence Guarante. In The Thirteen International Conference on Learning Representations, ICLR 2025.'
 
 - **Jiacai Liu**, Wenye Li, Ke Wei. Elementary Analysis of Policy Gradient Methods.  arxiv.2404.03372
 
@@ -71,7 +71,7 @@ Papers 📄
 
   
 
-Talks 🎤
+Talks
 ======
 
   <ul>{% for post in site.talks reversed %}
@@ -79,11 +79,10 @@ Talks 🎤
   {% endfor %}</ul>
 
 
-Awards 🏅
+Awards
 ======
 
 - **2023.06, IJCAI 2023 AI Olympics Competition, Champion.**
 - **2021.06, Chinese Collegiate Computing Competition, 1st Prize.**
 - **2020.06, Chinese Collegiate Computing Competition, 3rd Prize.**
-- **2016.03, China National High School Mathematics League, Sichuan Province, 2nd Prize.**
 
