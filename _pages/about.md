@@ -55,19 +55,19 @@ News
 Papers
 ======
 
-- **Jiacai Liu**, Wenye Li, Ke Wei. On the Convergence of Policy Mirror Descent with Temporal Difference Evaluation. (coming soon ...)
+- **Jiacai Liu**, Wenye Li and Ke Wei. On the Convergence of Policy Mirror Descent with Temporal Difference Evaluation. (coming soon ...)
 
 - **Jiacai Liu**, Chaojie Wang, Chris Yuhao Liu, Liang Zeng, Rui Yan, Yiwen Sun, Yang Liu and Yahui Zhou. Improving Multi-Step Reasoning Abilities of Large Language Models with Direct Advantage Policy Optimization. arXiv preprint arXiv:2412.18279, 2024. 
 
-- Chris Yuhao Liu and  Liang Zeng and **Jiacai Liu** and  Rui Yan and  Jujie He and  Chaojie Wang and  Shuicheng Yan and Yang Liu and  Yahui Zhou, Skywork-Reward: Bag of Tricks for Reward Modeling in LLMs, arXiv:2410.18451.
+- Chris Yuhao Liu, Liang Zeng, **Jiacai Liu**, Rui Yan, Jujie He, Chaojie Wang, Shuicheng Yan, Yang Liu and  Yahui Zhou, Skywork-Reward: Bag of Tricks for Reward Modeling in LLMs, arXiv:2410.18451.
 
-- Wenye Li \*, **Jiacai Liu \*** and Ke Wei. $\phi$-Update: A Class of Policy Update Methods with Policy Convergence Guarante. In The Thirteen International Conference on Learning Representations, ICLR 2025.
+- Wenye Li \*, **Jiacai Liu \***, Ke Wei. $\phi$-Update: A Class of Policy Update Methods with Policy Convergence Guarante. In The Thirteen International Conference on Learning Representations, ICLR 2025.
 
-- **Jiacai Liu**, Wenye Li, Ke Wei. Elementary Analysis of Policy Gradient Methods.  arxiv.2404.03372
+- **Jiacai Liu**, Wenye Li and Ke Wei. Elementary Analysis of Policy Gradient Methods.  arxiv.2404.03372
 
-- **Jiacai Liu**, Wenye Li, and Ke Wei. On the Convergence of Projected Policy Gradient for Any Constant Step Sizes, arXiv:2311.01104.
+- **Jiacai Liu**, Wenye Li and Ke Wei. On the Convergence of Projected Policy Gradient for Any Constant Step Sizes, arXiv:2311.01104.
 
-- **Jiacai Liu,** Jinchi Chen, and Ke Wei. On the linear convergence of policy gradient under Hadamard parameterization Information and Inference: A Journal of the IMA, 2025
+- **Jiacai Liu,** Jinchi Chen and Ke Wei. On the linear convergence of policy gradient under Hadamard parameterization Information and Inference: A Journal of the IMA, 2025
 
   
 
