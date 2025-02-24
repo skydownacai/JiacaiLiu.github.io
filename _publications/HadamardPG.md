@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/HadamardPG
 excerpt: ''
 date: 2023-05-31
-venue: 'arxiv'
+venue: 'Information and Inference: A Journal of the IMA'
 paperurl: 'https://arxiv.org/abs/2305.19575'
 citation: ' Jiacai Liu, Jinchi Chen, and Ke Wei. On the Linear Convergence of Policy Gradient under Hadamard Parameterization. arXiv:2305.19575, 2023.'
 ---
